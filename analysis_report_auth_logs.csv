@@ -1,0 +1,10 @@
+Report Type,Source IP,Count,Status
+Summary,Input file,auth_logs.csv,
+Summary,Valid events,13,
+Summary,Successful logins,4,
+Summary,Failed logins,9,
+Summary,Unique source IPs,6,
+Summary,Invalid records skipped,0,
+Failed login attempts,192.168.1.20,4,REVIEW
+Failed login attempts,192.168.1.30,2,Normal
+Failed login attempts,192.168.1.40,3,REVIEW
