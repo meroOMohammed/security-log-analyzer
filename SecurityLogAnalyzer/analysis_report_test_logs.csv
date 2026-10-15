@@ -1,8 +1,0 @@
-Report Type,Source IP,Count,Status
-Summary,Input file,test_logs.csv,
-Summary,Valid events,2,
-Summary,Successful logins,1,
-Summary,Failed logins,1,
-Summary,Unique source IPs,2,
-Summary,Invalid records skipped,3,
-Failed login attempts,192.168.1.50,1,Normal
